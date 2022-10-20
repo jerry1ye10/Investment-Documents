@@ -1,6 +1,5 @@
-[Augmented Labs Inc]  
-[90 - 10 32nd Avenue, East Elmhurst, NY, US, 11369] 
-
+Augmented Labs Inc
+90 - 10 32nd Avenue, East Elmhurst, NY, US, 11369
 
 Bloomberg Beta 2022 L.P.  
 140 New Montgomery Street  
@@ -38,7 +37,7 @@ This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Be
 
 8. The rights described in this Agreement are non-assignable (except to affiliates of the Investor) and shall terminate upon the earliest to occur of (a) the conversion of the SAFE pursuant to the closing of the next Equity Financing contemplated by the SAFE; *provided, however*, that such rights shall survive such closing to the extent such rights are not reflected in the definitive documentation for the Equity Financing contemplated by the SAFE or at any time are not available to the Investor, in which case, the parties hereto will make any amendments necessary to this Agreement so as to preserve the rights of the Investor under this Agreement, (b) the closing of a firm commitment underwriting public offering of the Company’s Common Stock registered under the Securities Act of 1933, as amended, (c) immediately prior to the consummation of Change of Control of the Company, or (d) such time as the Investor no longer qualifies as an “accredited investor,” as that term is then defined in Rule 501(a) under the Securities Act of 1933, as amended.
 
-9. This Agreement shall be governed by and construed under the laws of the State of [Delaware], without regard to the conflicts of law provisions of such jurisdiction.
+9. This Agreement shall be governed by and construed under the laws of the State of Delaware, without regard to the conflicts of law provisions of such jurisdiction.
 
 10. This Agreement and the SAFE constitute the full and entire understanding and agreement between the parties with regard to the subjects hereof and thereof.  In the event of any inconsistency between this Agreement and the SAFE, this Agreement shall control.
 
